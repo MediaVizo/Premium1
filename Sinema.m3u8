@@ -39,56 +39,25 @@ https://lucky-morning-99df.tebermedya.workers.dev/teber_tv/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",32. Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 33. Filmbox Premier
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX PREMIER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",33. Filmbox Premier 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41723 
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 34. Filmbox Action
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",34. Filmbox Action 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41724 
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 35. Filmbox Drama
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395478&extension=ts&play_token=EUzSYogcIm
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 36. Filmbox Komedi
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395480&extension=ts&play_token=9DF0Dw8jus
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 37. Filmbox Family
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395482&extension=ts&play_token=DJ6Jast1X8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 38. Filmbox Horror
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395479&extension=ts&play_token=pN7YI2hmag
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 39. Filmbox Sci-Fi
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395476&extension=ts&play_token=QOkuCg35Yz
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 40. Filmbox Fantastic
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395477&extension=ts&play_token=Dss0SPNp0t
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 41. Filmbox Romantic
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395481&extension=ts&play_token=0lwWlmEGZx
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 42. Filmbox Yerli
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395483&extension=ts&play_token=vqFqJUt01r
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 43. Filmbox Yeşilçam
-http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395484&extension=ts&play_token=0YqVbbJcF9
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/C6O1dEvxw.png",50. SDM Sinema
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",51. Deniz Sinema
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aNoxG.png",52. Kuzey Max HD
-http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",53. Süper Türk
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bk8Q3zw1BK.png",54. Cine 5
-https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX SCI-FI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",35. Filmbox Sc-Fi
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41725 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FANTASTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",36. Filmbox Fantastic
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41726 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",37. Filmbox Drama 
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41727 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX KORKU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",38. Filmbox Horror 
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41728 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",39. Filmbox Komrdu
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41729 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ROMANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",40. Filmbox Romantic 
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41730 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",41. Filmbox Family 
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41731 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YERLI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",42. Filmbox Yerli 
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41732 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YESILCAM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",43. Filmbox Yeşilçam 
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41733
