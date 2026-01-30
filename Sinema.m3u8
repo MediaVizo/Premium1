@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 80. Filmbox Premier
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395474&extension=ts&play_token=9j1daaYw8g
 
@@ -27,3 +29,4 @@ http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395483&ex
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 90. Filmbox Yeşilçam
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395484&extension=ts&play_token=0YqVbbJcF9
+
