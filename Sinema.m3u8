@@ -1,32 +1,94 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 80. Filmbox Premier
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",20. Teleon TV
+https://1a-1791.com/live/tv3qa28c/live-hls/27pp-oy3w/chunklist_i1_DVR.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",22. HBB TV
+https://lucky-morning-99df.tebermedya.workers.dev/hbb_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/e0YzH.png",23. Teve ON 
+https://lucky-morning-99df.tebermedya.workers.dev/teber_on/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RrDJ9fpgsA5G.png",24. Kral 6
+https://lucky-morning-99df.tebermedya.workers.dev/kral6/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/OaRh21FSLgIq.png",25. Teber Star 1
+https://lucky-morning-99df.tebermedya.workers.dev/teber_star1/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2wnu3XWcaC.png",26. Teber Star 2
+https://lucky-morning-99df.tebermedya.workers.dev/teber_star2/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hov1q0.png",27. Teber Star 3
+https://lucky-morning-99df.tebermedya.workers.dev/teber_star3/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/HR89MTN.png",28. Teber Star 4
+https://lucky-morning-99df.tebermedya.workers.dev/teber_star4/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/XgAELN.png",29. Star Aksiyon
+https://lucky-morning-99df.tebermedya.workers.dev/aksion_star/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/pKtVb70QiJ.png",37. İnter Star
+https://lucky-morning-99df.tebermedya.workers.dev/inter_star/playlist.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/NgBbkqLWM9x.png",30. Star Genç
+https://lucky-morning-99df.tebermedya.workers.dev/genc_star/playlist.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/3OiecgPk8.png",31. Teber Sinema
+https://lucky-morning-99df.tebermedya.workers.dev/teber_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",32. Yansıma Sinema
+http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 33. Filmbox Premier
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395474&extension=ts&play_token=9j1daaYw8g
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 22. Filmbox Drama
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 34. Filmbox Drama
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395478&extension=ts&play_token=EUzSYogcIm
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 83. Filmbox Komedi
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 35. Filmbox Komedi
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395480&extension=ts&play_token=9DF0Dw8jus
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 84. Filmbox Family
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 36. Filmbox Family
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395482&extension=ts&play_token=DJ6Jast1X8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 85. Filmbox Horror
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 37. Filmbox Horror
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395479&extension=ts&play_token=pN7YI2hmag
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 86. Filmbox Sci-Fi
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 38. Filmbox Sci-Fi
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395476&extension=ts&play_token=QOkuCg35Yz
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 87. Filmbox Fantastic
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 39. Filmbox Fantastic
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395477&extension=ts&play_token=Dss0SPNp0t
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 88. Filmbox Romantic
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 40. Filmbox Romantic
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395481&extension=ts&play_token=0lwWlmEGZx
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 89. Filmbox Yerli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 41. Filmbox Yerli
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395483&extension=ts&play_token=vqFqJUt01r
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 90. Filmbox Yeşilçam
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 42. Filmbox Yeşilçam
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395484&extension=ts&play_token=0YqVbbJcF9lmbox Romantic
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395481&extension=ts&play_token=0lwWlmEGZx
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 43. Filmbox Yerli
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395483&extension=ts&play_token=vqFqJUt01r
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 44. Filmbox Yeşilçam
 http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395484&extension=ts&play_token=0YqVbbJcF9
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/C6O1dEvxw.png",50. SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",51. Deniz Sinema
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aNoxG.png",52. Kuzey Max HD
+http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",53. Süper Türk
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bk8Q3zw1BK.png",54. Cine 5
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+
 
