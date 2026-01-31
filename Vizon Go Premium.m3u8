@@ -76,7 +76,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/d966d8bf02591e4a2abf2d9b6e87a28
 https://stream41.radyotelekom.com.tr/stream/m3u8/2264c67403e23b62fda2002d09be6d7c/2264c67403e23b62fda2002d09be6d7c.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",28. Teleon TV
-https://1a-1791.com/live/v13wgnv6/slot-7/g4kq-ewqn/chunklist_DVR.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/3916eda49c8c7d9006e1c82fd5632251/3916eda49c8c7d9006e1c82fd5632251.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/w4I73ZqXJF.png",29. HBB TV
 https://lucky-morning-99df.tebermedya.workers.dev/hbb_tv/playlist.m3u8
@@ -371,6 +371,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
