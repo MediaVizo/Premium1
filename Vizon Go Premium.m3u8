@@ -73,7 +73,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/5a155c3a95fe4060bd00a5dd2aedd09
 https://stream41.radyotelekom.com.tr/stream/m3u8/9b1931edd6c37e934096b4da78091e1e/9b1931edd6c37e934096b4da78091e1e.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xapOPnH3S.png",27. Vizon Show 
-https://stream41.radyotelekom.com.tr/stream/m3u8/0da87a89f765ddfac52cd89f7dab235f/0da87a89f765ddfac52cd89f7dab235f.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/2264c67403e23b62fda2002d09be6d7c/2264c67403e23b62fda2002d09be6d7c.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",28. Teleon TV
 https://1a-1791.com/live/tv3qa28c/live-hls/27pp-oy3w/chunklist_i1_DVR.m3u8
@@ -371,5 +371,6 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
