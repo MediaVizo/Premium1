@@ -67,7 +67,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/cfb5f9e77e1b72095d9024396ec0301
 https://stream41.radyotelekom.com.tr/stream/m3u8/83371ae117445798600bc08f9d314089/83371ae117445798600bc08f9d314089.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DIHrxMFfoTJ4.png",25. DizBox
-https://stream41.radyotelekom.com.tr/stream/m3u8/5a155c3a95fe4060bd00a5dd2aedd091/5a155c3a95fe4060bd00a5dd2aedd091.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/ba09d2e3fac1a456228a8bf555e53630/ba09d2e3fac1a456228a8bf555e53630.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/orwl2u.png",26. Vizon Dizi
 https://stream41.radyotelekom.com.tr/stream/m3u8/d966d8bf02591e4a2abf2d9b6e87a283/d966d8bf02591e4a2abf2d9b6e87a283.m3u8
@@ -178,7 +178,7 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7334/index.m3u8
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/y81gEn.png",114. Vizon Wild
-https://stream41.radyotelekom.com.tr/stream/m3u8/ff9ab325e44a9aca30f6b7c47bad4a67/ff9ab325e44a9aca30f6b7c47bad4a67.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/976428d7b479fdb6d539c0faf17f01f0/976428d7b479fdb6d539c0faf17f01f0.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Yo4NQp.png",117. Teber Belgesel 
 https://lucky-morning-99df.tebermedya.workers.dev/teber_wild/playlist.m3u8
@@ -371,6 +371,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
