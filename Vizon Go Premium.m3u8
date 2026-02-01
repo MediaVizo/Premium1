@@ -237,25 +237,28 @@ https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://cdn.imagevisit.com/2026/01/26/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng.png",305. Baby First
 http://45.164.151.197:8000/play/a03i/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IswLgX4vyA0e.png",330. STV Müzik
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/Zz-BSWa.png",330. Vizon Müzik
+http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IswLgX4vyA0e.png",331. STV Müzik
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",331. Chennal 6
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",332. Chennal 6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://pic.rutube.ru/video/a0/75/a075757aa5433c764f49cb9636b8443f.png",332. Türk Pop TV
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://pic.rutube.ru/video/a0/75/a075757aa5433c764f49cb9636b8443f.png",333. Türk Pop TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://r.resimlink.com/yfqC3Hsi.png",334. Yansıma Müzik
 http://cdn4.yayin.com.tr/yansimamedyatv/video.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/8b2xBWtUofm.png",335. Slow Karadeniz TV
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/8b2xBWtUofm.png",336. Slow Karadeniz TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/jOI2a.png",336. Tivi 16
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/jOI2a.png",337. Tivi 16
 https://streams.uzunmuhalefet.com/stream/96ead36d-cf4a-43e0-a407-ce120932c95d.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/oLQd79ml.png",337. Metro Türk
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/oLQd79ml.png",338. Metro Türk
 https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",345. Trace Latına
@@ -338,6 +341,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
