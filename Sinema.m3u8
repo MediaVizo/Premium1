@@ -9,30 +9,44 @@ http://104.238.23.221:82/boncuktv/Depo/live/out.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LJQTX4Eg.png",22. TV 90 
 https://tv.ismailturret.workers.dev/euro90tvglobal.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png",23. B Sinema
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",32. Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX PREMIER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",33. Filmbox Premier 
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX PREMIER" tvg-logo="https://r.resimlink.com/1HciIVvlRDoA.png",33. Filmbox Premier 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41723 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",34. Filmbox Action 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ACTION" tvg-logo="https://r.resimlink.com/3hef8jkluF9C.png",34. Filmbox Action 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41724 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX SCI-FI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",35. Filmbox Sc-Fi
-http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41725 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FANTASTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",36. Filmbox Fantastic
-http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41726 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX DRAMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",37. Filmbox Drama 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX DRAMA" tvg-logo="https://r.resimlink.com/PRvTMeok3D.png",35. Filmbox Drama 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41727 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX KORKU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",38. Filmbox Horror 
-http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41728 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX COMEDY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",39. Filmbox Komrdu
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX COMEDY" tvg-logo="https://r.resimlink.com/iUXaFlm.png",36. Filmbox Komedi
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41729 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ROMANTIC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",40. Filmbox Romantic 
-http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41730 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FAMILY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",41. Filmbox Family 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FAMILY" tvg-logo="https://r.resimlink.com/GK_A6Q80-Xly.png",37. Filmbox Family 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41731 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YERLI" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",42. Filmbox Yerli 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX KORKU" tvg-logo="https://r.resimlink.com/sWCL-9Rc.png",38. Filmbox Horror 
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41728 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX SCI-FI" tvg-logo="https://r.resimlink.com/Q-k_f0W6A.png,39. Filmbox Sc-Fi
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41725 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX FANTASTIC" tvg-logo="https://r.resimlink.com/R2Ik5_.png",40. Filmbox Fantastic
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41726 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX ROMANTIC" tvg-logo="https://r.resimlink.com/G4kM_l.png",41. Filmbox Romantic 
+http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41730 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YERLI" tvg-logo="https://r.resimlink.com/kzUiMbWfej.png",42. Filmbox Yerli 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41732 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YESILCAM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/filmbox-int.png" group-title="TURK SINEMA",43. Filmbox Yeşilçam 
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YESILCAM" tvg-logo="https://r.resimlink.com/cd9tY_R-.png",43. Filmbox Yeşilçam 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41733
+
 
 
