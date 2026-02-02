@@ -78,6 +78,9 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/2264c67403e23b62fda2002d09be6d7
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",28. Teleon TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/3916eda49c8c7d9006e1c82fd5632251/3916eda49c8c7d9006e1c82fd5632251.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png",39. B Sinema
+https://ip44.radyotelekomtv.com:3958/hybrid/play.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",40. Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
@@ -341,6 +344,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
