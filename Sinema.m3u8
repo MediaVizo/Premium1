@@ -48,5 +48,15 @@ http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41732
 #EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX YESILCAM" tvg-logo="https://r.resimlink.com/cd9tY_R-.png",43. Filmbox Yeşilçam 
 http://supersportstv.site:8080/bakyuz/J7b6xK8mJMjD/41733
 
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/bTzcrPqxZ15m.png",44. Pofidix Sinema
+http://5.178.103.239:82/d/live/out.m3u8
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/My8J_G2Zmh9u.png",45. Pofidix Sinema 2
+http://104.238.23.182/d/live/out.m3u8
+
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/syijR7WzV_eS.png",46. Pofidix Sinema 3
+http://104.238.23.216/d/live/out.m3u8
+
+
 
 
