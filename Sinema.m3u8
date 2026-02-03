@@ -57,6 +57,60 @@ http://104.238.23.216/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/My8J_G2Zmh9u.png",46. Pofidix Sinema 3
 http://104.238.23.182/d/live/out.m3u8
 
+#EXTINF:-1 tvg-id="TR | NETFLIX DIZI" tvg-name="TR: MAX Vizyon 2 HD" tvg-logo="TR | NETFLIX DIZI" group-title="TR | SINEMA 7/24",TR: 61. MAX Vizyon 2 HD
+http://ekalite.xyz:8080/erdicelik/ata2021/10846
+
+#EXTINF:-1 tvg-id="TR | NETFLIX DIZI" tvg-name="TR: MAX Vizyon 3 HD" tvg-logo="TR | NETFLIX DIZI" group-title="TR | SINEMA 7/24",TR: 62. MAX Vizyon 3 HD
+http://ekalite.xyz:8080/erdicelik/ata2021/10847
+
+#EXTINF:-1 tvg-id="TR | NETFLIX DIZI" tvg-name="TR: MAX STAR WARS HD" tvg-logo="TR | NETFLIX DIZI" group-title="TR | SINEMA 7/24",TR: 63. MAX STAR WARS HD
+http://ekalite.xyz:8080/erdicelik/ata2021/10850
+
+#EXTINF:-1 tvg-id="TR | NETFLIX DIZI" tvg-name="TR: MAX TURK HD" tvg-logo="TR | NETFLIX DIZI" group-title="TR | SINEMA 7/24",TR: 64. MAX TURK HD
+http://ekalite.xyz:8080/erdicelik/ata2021/10851
+
+#EXTINF:-1 tvg-id="TR | NETFLIX DIZI" tvg-name="TR: MAX GOLD HD" tvg-logo="TR | NETFLIX DIZI" group-title="TR | SINEMA 7/24",TR: 65. MAX GOLD HD
+http://ekalite.xyz:8080/erdicelik/ata2021/10853
+
+#EXTINF:-1 tvg-id="43" tvg-name="TR: FILMAX GOLD" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 66. FILMAX GOLD
+http://ekalite.xyz:8080/erdicelik/ata2021/389
+
+#EXTINF:-1 tvg-id="35" tvg-name="TR: FILMAX BILIMKURGU" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 67. FILMAX BILIMKURGU
+http://ekalite.xyz:8080/erdicelik/ata2021/214621
+
+#EXTINF:-1 tvg-id="34" tvg-name="TR: FILMAX AKSIYON" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 68. FILMAX AKSIYON
+http://ekalite.xyz:8080/erdicelik/ata2021/385
+
+#EXTINF:-1 tvg-id="33" tvg-name="TR: FILMAX AILE" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 69. FILMAX AILE
+http://ekalite.xyz:8080/erdicelik/ata2021/214620
+
+#EXTINF:-1 tvg-id="40" tvg-name="TR: FILMAX MACERA" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 70. FILMAX MACERA
+http://ekalite.xyz:8080/erdicelik/ata2021/382
+
+#EXTINF:-1 tvg-id="39" tvg-name="TR: FILMAX KORKU" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 71. FILMAX KORKU
+http://ekalite.xyz:8080/erdicelik/ata2021/383
+
+#EXTINF:-1 tvg-id="38" tvg-name="TR: FILMAX KOMEDI" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 72. FILMAX KOMEDI
+http://ekalite.xyz:8080/erdicelik/ata2021/388
+
+#EXTINF:-1 tvg-id="37" tvg-name="TR: FILMAX GERILIM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 73. FILMAX GERILIM
+http://ekalite.xyz:8080/erdicelik/ata2021/215164
+
+#EXTINF:-1 tvg-id="41" tvg-name="TR: FILMAX ROMANTIK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 74. FILMAX ROMANTIK
+http://ekalite.xyz:8080/erdicelik/ata2021/215165
+
+#EXTINF:-1 tvg-id="36" tvg-name="TR: FILMAX DRAM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 75. FILMAX DRAM
+http://ekalite.xyz:8080/erdicelik/ata2021/113523
+
+#EXTINF:-1 tvg-id="19" tvg-name="TR: FILMAX TURK" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 76. FILMAX TURK
+http://ekalite.xyz:8080/erdicelik/ata2021/387
+
+#EXTINF:-1 tvg-id="36" tvg-name="TR: FILMAX DRAM" tvg-logo="https://logodix.com/logo/1315967.png" group-title="TR | SINEMA 7/24",TR: 77. FILMAX Yeşilçam
+http://ekalite.xyz:8080/erdicelik/ata2021/586238
+
+
+
+
 
 
 
