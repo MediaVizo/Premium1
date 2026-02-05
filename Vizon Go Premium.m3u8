@@ -100,7 +100,7 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",70. Vizon Haber
-http://208.79.153.42/akamaissh101/ssh101/VizonHbr/playlist.m3u8
+https://live01.iha.tv/webabone/live/chunks.m3u8?nimblesessionid=2505868
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AiISL.png",72. Kanal Avrupa
 http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v1a1/mono.m3u8
@@ -149,9 +149,6 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/y81gEn.png",111. Vizon Wild
 https://stream41.radyotelekom.com.tr/stream/m3u8/d52957d8092ded73cfcba070d4a31a04/d52957d8092ded73cfcba070d4a31a04.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/PTQkB2-1CpKc.png",113. TLC Belgsel
-http://87.121.104.29:145/tlcsucvearastirma/stream.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Ox4_IP.png",120. TV 36 Belgesel
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
@@ -347,6 +344,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
