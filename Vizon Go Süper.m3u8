@@ -186,6 +186,9 @@ https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/HZcXhVOy.png",300. Vizon Çocuk
 https://stream41.radyotelekom.com.tr/stream/m3u8/060a8623e5c52cd05cc18e4e3ba56ab6/060a8623e5c52cd05cc18e4e3ba56ab6.m3u8
 
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/Mfm3rxW.png",301. Teber Çocuk
+https://catcast.ismailturret.workers.dev/50452.m3u8
+
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://cdn.imagevisit.com/2026/01/26/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng.png",305. Baby First
 http://45.164.151.197:8000/play/a03i/index.m3u8
 
@@ -284,6 +287,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
