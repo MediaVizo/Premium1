@@ -244,7 +244,7 @@ https://catcast.ismailturret.workers.dev/50452.m3u8
 http://45.164.151.197:8000/play/a03i/index.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/35bOcIDi6m.png",330. Vizon Müzik
-http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
+https://streams.uzunmuhalefet.com/stream/e18990dd-ce05-4bdc-bc32-deb0b485b212.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IswLgX4vyA0e.png",331. STV Müzik
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
@@ -347,6 +347,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
