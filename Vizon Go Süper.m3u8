@@ -30,8 +30,8 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/83ff8281ca8a8f6fd427780a5fab5d5
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xapOPnH3S.png",27. Vizon Show 
 https://stream41.radyotelekom.com.tr/stream/m3u8/7ffbe58f36af36de412de5a0819c3933/7ffbe58f36af36de412de5a0819c3933.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",28. Teleon TV
-https://1a-1791.com/live/gi29le7p/slot-97/mxzj-foyo/chunklist.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",29. Teleon TV
+https://1a-1791.com/live/k5e12sb4/live-hls/e9wg-mldr/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9NO6M.png",40. Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
@@ -287,6 +287,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
