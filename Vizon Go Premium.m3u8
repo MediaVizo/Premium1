@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png",1. Cine 6
-https://stream41.radyotelekom.com.tr/stream/m3u8/cdcd3febef834a68cf42c22c3d1971b2/cdcd3febef834a68cf42c22c3d1971b2.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/ee49ee49420e53da08abd09f22184693/ee49ee49420e53da08abd09f22184693.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LeJmvbatdBx.png",2. Cine 6 Premier
-https://stream41.radyotelekom.com.tr/stream/m3u8/7f0d182cc9a22160c5c901130db6715f/7f0d182cc9a22160c5c901130db6715f.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/d78b2e680ef09fbe925423b17165772a/d78b2e680ef09fbe925423b17165772a.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/dxFRW6y-i.png",3. Cine 6 Aksiyon
-https://stream41.radyotelekom.com.tr/stream/m3u8/8bc480da766f180c95624f109677d347/8bc480da766f180c95624f109677d347.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/27399aae5ae584da3820be0f58d00eba/27399aae5ae584da3820be0f58d00eba.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",4. Cine 6 Türk
-https://stream41.radyotelekom.com.tr/stream/m3u8/d085cfe9e2ce87a8321aa81a6288b782/d085cfe9e2ce87a8321aa81a6288b782.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/6ebbf54543496b866fa99e9701f19feb/6ebbf54543496b866fa99e9701f19feb.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/f95ylrdAmQ.png",5. Vizon Prime
 https://stream41.radyotelekom.com.tr/stream/m3u8/8e74b8fbe6b93f6f8a58c781603d8c1a/8e74b8fbe6b93f6f8a58c781603d8c1a.m3u8
@@ -31,7 +31,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/c561eb4bbe9d554209c4e12f80a869d
 https://stream41.radyotelekom.com.tr/stream/m3u8/dff081776ab0f0d7bdff97880c761b38/dff081776ab0f0d7bdff97880c761b38.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8PCrn.png",11. Sine Adrenalin
-https://stream41.radyotelekom.com.tr/stream/m3u8/80b00e6193d6ddf1433b65d8e042e052/80b00e6193d6ddf1433b65d8e042e052.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/6097407e8faf5a278dd57ddce3ad16ee/6097407e8faf5a278dd57ddce3ad16ee.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/9dXK5zZh8tb1.png",12. Sine Premıum
 https://stream41.radyotelekom.com.tr/stream/m3u8/f51b20df52764f6c131255a27efeab23/f51b20df52764f6c131255a27efeab23.m3u8
@@ -338,6 +338,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
