@@ -39,19 +39,19 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/0d4acc47c43219305fae3a6334d066d
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hYi5BSG2.png",13. Sine Yerli
 https://stream41.radyotelekom.com.tr/stream/m3u8/f7196d70c0f15497328dd977022d9de4/f7196d70c0f15497328dd977022d9de4.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uOld_H.png",14. Filmclup
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/uOld_H.png",14. Filmclub
 https://stream41.radyotelekom.com.tr/stream/m3u8/cb007bf70eb6c927571620eda46ab872/cb007bf70eb6c927571620eda46ab872.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/T_FIB.png",15. Filmclup Aksiyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/T_FIB.png",15. Filmclub Aksiyon
 https://stream41.radyotelekom.com.tr/stream/m3u8/a73fbee1f57f3c48580e66b0503e6b1f/a73fbee1f57f3c48580e66b0503e6b1f.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TMqbVp.png",16. Filmclup Komedi
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TMqbVp.png",16. Filmclub Komedi
 https://stream41.radyotelekom.com.tr/stream/m3u8/bd24a1984396f2235669fb77db14a80c/bd24a1984396f2235669fb77db14a80c.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2Ey73OcxeVbR.png",17. Filmclup Family
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2Ey73OcxeVbR.png",17. Filmclub Family
 https://stream41.radyotelekom.com.tr/stream/m3u8/dd0bd0500adbd9c3aef84f41ca9a9bc3/dd0bd0500adbd9c3aef84f41ca9a9bc3.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MGNF9HATEQqS.png",18. Filmclup Türk
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MGNF9HATEQqS.png",18. Filmclub Türk
 https://stream41.radyotelekom.com.tr/stream/m3u8/7d9b92584ad23e5ff96039628b2d9b42/7d9b92584ad23e5ff96039628b2d9b42.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",19. Fil TV
@@ -117,22 +117,22 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2193/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png",80. İdman TV
 https://str.yodacdn.net/idmantele/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_BiH_BA_logo_v3.png?1737553095",91. Arena Sport 1
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/K3Wpy0UOx.png",91. Arena Sport 1
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7329/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930020915077572_54.png",92. Arena Sport 2
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/v0TwQ1es.png",92. Arena Sport 2
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7330/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/L8vIjmaSeYuB.png,92. Arena Sport 3
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/uZga9.png,93. Arena Sport 3
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7331/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png",94. Arena Sport 4
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/TOLcI7kmuGr4.png",94. Arena Sport 4
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7332/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Arena_Sport_5.png/revision/latest?cb=20210319050404",95. Arena Sport 5
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/AgTQw.png",95. Arena Sport 5
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",96. Arena Sport 6
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/xuye7XqiS3N.png",96. Arena Sport 6
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7334/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",107. Trace Sports
@@ -347,6 +347,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
