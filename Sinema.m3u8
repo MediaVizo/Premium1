@@ -22,7 +22,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/c4-X5n.png",27. İşviçre TV
-https://isvicre.isvicretv.com/player/m3u8/d6ab97d2fe330ee4b3bf034918f51b5d/d6ab97d2fe330ee4b3bf034918f51b5d.m3u8
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/bTzcrPqxZ15m.png",44. Pofidix Sinema
 http://5.178.103.239:82/d/live/out.m3u8
@@ -32,6 +32,7 @@ http://104.238.23.216/d/live/out.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/My8J_G2Zmh9u.png",46. Pofidix Sinema 3
 http://104.238.23.182/d/live/out.m3u8
+
 
 
 
