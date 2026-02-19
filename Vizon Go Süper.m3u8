@@ -136,7 +136,7 @@ https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/1TbIra.png",156. Vangölü TV
-https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w288609955_b1696000.m3u8
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/X8YcZE2_w5D.png",157. Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
@@ -176,9 +176,6 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/eKLvkzR.png",175. Kanal T
 https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
-
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/hzRM873umSZH.png",176. Düzce TV
-https://streams.uzunmuhalefet.com/stream/288404e1-7bf2-40da-8303-75706bccdcb4.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Un0zi.png",208. TV 48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
@@ -311,6 +308,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
