@@ -199,7 +199,7 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/sUWQBq5jzc.png",162. Kay TV
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/G7YLclKx.png",163. Egemax TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
@@ -353,6 +353,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
