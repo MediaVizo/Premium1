@@ -3,13 +3,13 @@
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/A091BiyJPDU.png",0. Vizon Ramazan
 https://stream41.radyotelekom.com.tr/stream/m3u8/234495b16721b1ee2a1fdea2e7ef0def/234495b16721b1ee2a1fdea2e7ef0def.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DQ5FbGyUXn.png",1. Cine 6
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZTzxE.png",1. Cine 6
 https://stream41.radyotelekom.com.tr/stream/m3u8/1f3af48748fcb663f79deb5c7ea8ef55/1f3af48748fcb663f79deb5c7ea8ef55.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/LeJmvbatdBx.png",2. Cine 6 Premier
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",2. Cine 6 Premier
 https://stream41.radyotelekom.com.tr/stream/m3u8/50ebcdcfe2afd3f108369a34ab6de107/50ebcdcfe2afd3f108369a34ab6de107.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/M_qj5-K.png",4. Cine 6 Türk
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ycGOuY.png",4. Cine 6 Türk
 https://stream41.radyotelekom.com.tr/stream/m3u8/2ac26d5ee4aea3095fff4e7a653deeb7/2ac26d5ee4aea3095fff4e7a653deeb7.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbHyaKQ03q.png",7. Vizon Gold
@@ -135,7 +135,7 @@ https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Df0hC8P-o.png",154. Van HD
 https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/1TbIra.png",156. Vangölü TV
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/VfYcnlO2h.png",156. Vangölü TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/X8YcZE2_w5D.png",157. Life TV
@@ -154,7 +154,7 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/sUWQBq5jzc.png",162. Kay TV
-https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/G7YLclKx.png",163. Egemax TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
@@ -308,6 +308,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
