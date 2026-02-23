@@ -22,7 +22,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/68dcdf5847e7e1b4081e2ca3ae585af
 https://stream41.radyotelekom.com.tr/stream/m3u8/3736621408372fc54f966f1e2c7bcbb6/3736621408372fc54f966f1e2c7bcbb6.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2Ey73OcxeVbR.png",17. Filmclup Family
-https://stream41.radyotelekom.com.tr/stream/m3u8/ee9e9537d1448a00ecbc97affa674079/ee9e9537d1448a00ecbc97affa674079.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/b30077d5b35ae7fc7ea02c295c6be0c8/b30077d5b35ae7fc7ea02c295c6be0c8.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TZDJ8i.png",22. Filmbox Stars
 https://stream41.radyotelekom.com.tr/stream/m3u8/09b33e2e9ab2480c5c94e3e9a9243813/09b33e2e9ab2480c5c94e3e9a9243813.m3u8
@@ -308,6 +308,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
