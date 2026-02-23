@@ -49,10 +49,10 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/f41a5c5854f21cb3552d5e8a6f6b8f4
 https://stream41.radyotelekom.com.tr/stream/m3u8/9626932ccb847c53eb2189661f66c898/9626932ccb847c53eb2189661f66c898.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/TMqbVp.png",16. Filmclub Komedi
-https://stream41.radyotelekom.com.tr/stream/m3u8/f70a8695f4bca5512286124d31c0f5ce/f70a8695f4bca5512286124d31c0f5ce.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/3736621408372fc54f966f1e2c7bcbb6/3736621408372fc54f966f1e2c7bcbb6.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/2Ey73OcxeVbR.png",17. Filmclub Family
-https://stream41.radyotelekom.com.tr/stream/m3u8/f301ef68724aee8156ab268e8ddbec48/f301ef68724aee8156ab268e8ddbec48.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/ee9e9537d1448a00ecbc97affa674079/ee9e9537d1448a00ecbc97affa674079.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MGNF9HATEQqS.png",18. Filmclub Türk
 https://stream41.radyotelekom.com.tr/stream/m3u8/ff2f18dc098dba406d933862d1476fbd/ff2f18dc098dba406d933862d1476fbd.m3u8
@@ -353,6 +353,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
