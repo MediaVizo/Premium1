@@ -288,8 +288,8 @@ https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",549. Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/AzTV_%282005-2009%29.png/revision/latest?cb=20170831053034",550. Az TV
-https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",550. Az TV
+http://ott.server-iptv.live/5001/video.m3u8?token=C0ffbe2b0c
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",551. İçtimal TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
@@ -353,6 +353,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
