@@ -54,10 +54,13 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",49. Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bk8Q3zw1BK.png",50. Cine 5
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://ibb.co/Cpzyn1Cv",50. Cine 5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",51. Ekol TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://ibb.co/LXZD1dFB",51. Cine 5 HD
+http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",52. Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",70. Vizon Haber
@@ -308,6 +311,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
