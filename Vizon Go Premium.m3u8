@@ -153,6 +153,9 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/y81gEn.png",111. Vizon Wild
 https://stream41.radyotelekom.com.tr/stream/m3u8/4225d633c2f3d83ed2b447b44ec6d904/4225d633c2f3d83ed2b447b44ec6d904.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/4D3knwTxjZFs.png",112. DocuBox
+https://stream41.radyotelekom.com.tr/stream/m3u8/66d8cd4e3ec7a196219d982aa8602bac/66d8cd4e3ec7a196219d982aa8602bac.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Ox4_IP.png",120. TV 36 Belgesel
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 
@@ -353,6 +356,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
