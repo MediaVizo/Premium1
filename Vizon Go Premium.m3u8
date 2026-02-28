@@ -57,7 +57,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/9a94b69c0bb335f97bc4c58f411b2c2
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/gUclmrHXY.png",19. Moviebox Family
 https://stream41.radyotelekom.com.tr/stream/m3u8/9a3a1d596ac7895615ef34cc649f0baa/9a3a1d596ac7895615ef34cc649f0baa.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MGNF9HATEQqS.png",20. Moviebox Türk
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/OXuAb.png",20. Moviebox Türk
 https://stream41.radyotelekom.com.tr/stream/m3u8/ca1de9081318a87e81b09802ed3c83d4/ca1de9081318a87e81b09802ed3c83d4.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/wPW39.png",21. Fil TV
@@ -353,6 +353,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
