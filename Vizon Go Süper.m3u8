@@ -12,6 +12,9 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/ba21e71402927902027b5fb5927a86e
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbHyaKQ03q.png",7. Vizon Gold
 https://stream41.radyotelekom.com.tr/stream/m3u8/c919fb9b663d796b10ce3d8488dc5670/c919fb9b663d796b10ce3d8488dc5670.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/01/wqwKZ2.png",8. Vizon Komedi
+https://stream41.radyotelekom.com.tr/stream/m3u8/1f6bcedcba694ccff6d73d24ba41ea3e/1f6bcedcba694ccff6d73d24ba41ea3e.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hYi5BSG2.png",14. Sine Yerli
 https://stream41.radyotelekom.com.tr/stream/m3u8/bb59ca9a230662603c5edb80b059f5d8/bb59ca9a230662603c5edb80b059f5d8.m3u8
 
@@ -305,6 +308,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
