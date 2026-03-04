@@ -93,7 +93,7 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wUzJjF.png",35. Premie Star
 https://stream41.radyotelekom.com.tr/stream/m3u8/dcb19d3f600a6fc869bcf8cba3f9f7a6/dcb19d3f600a6fc869bcf8cba3f9f7a6.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wUzJjF.png",36. Kral Teber 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/04/wzG0Nq.png",36. Kral Teber 
 https://catcast.ismailturret.workers.dev/50457.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",49. Cine 1
@@ -371,6 +371,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
