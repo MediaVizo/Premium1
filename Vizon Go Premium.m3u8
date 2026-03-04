@@ -31,7 +31,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/8452197739820bd4e06dc3885737ab4
 https://stream41.radyotelekom.com.tr/stream/m3u8/a5db989342c4927e4fd50e2e9cff6a6c/a5db989342c4927e4fd50e2e9cff6a6c.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NV5e_3Rc.png",10. Vizon 4K
-https://stream41.radyotelekom.com.tr/stream/m3u8/a0d6b0a8dbd9d82ad73619dcb1ee99e2/a0d6b0a8dbd9d82ad73619dcb1ee99e2.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/0755e219bbbedd5430d184fda195240c/0755e219bbbedd5430d184fda195240c.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/i8XP-MU.png",11. Sineon
 https://stream41.radyotelekom.com.tr/stream/m3u8/9b807e67b8d9c3f40168c5fdd246ad82/9b807e67b8d9c3f40168c5fdd246ad82.m3u8
@@ -52,10 +52,10 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/b08b5fc37bce7c59cfa66ffb8a03d2d
 https://stream41.radyotelekom.com.tr/stream/m3u8/5557a5b7e700964c84f1dfe669e29420/5557a5b7e700964c84f1dfe669e29420.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wU2LFR.png",17. Moviebox Vizyon
-https://stream41.radyotelekom.com.tr/stream/m3u8/606009835c189c6ff0ad21e1198d107f/606009835c189c6ff0ad21e1198d107f.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/ad893a6f28aa32c5e398442bed75045a/ad893a6f28aa32c5e398442bed75045a.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wU2nEj.png",18. Moviebox Stars
-https://stream41.radyotelekom.com.tr/stream/m3u8/9a94b69c0bb335f97bc4c58f411b2c28/9a94b69c0bb335f97bc4c58f411b2c28.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/f49df1d681e53287ce5b4b61ee4a5648/f49df1d681e53287ce5b4b61ee4a5648.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wUvCUo.png",19. Moviebox Family
 https://stream41.radyotelekom.com.tr/stream/m3u8/a7ec5981166636ab26908f3b234a9e68/a7ec5981166636ab26908f3b234a9e68.m3u8
@@ -70,13 +70,13 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/c0743332c0c24d7d9d57c17e382e13f
 https://stream41.radyotelekom.com.tr/stream/m3u8/a0fa431153a14f2866d4acd5b74ac6f1/a0fa431153a14f2866d4acd5b74ac6f1.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/01/wqZXSI.png",25. Dizi TV
-https://stream41.radyotelekom.com.tr/stream/m3u8/813f6f5ed9d3f19d2dd97ec16e4a598a/813f6f5ed9d3f19d2dd97ec16e4a598a.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/3331573026d8e655bdfd27d45cc863eb/3331573026d8e655bdfd27d45cc863eb.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/orwl2u.png",26. Vizon Dizi
 https://stream41.radyotelekom.com.tr/stream/m3u8/67324a8e97f37280d4fe7c0439a059b9/67324a8e97f37280d4fe7c0439a059b9.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xapOPnH3S.png",27. Vizon Show 
-https://stream41.radyotelekom.com.tr/stream/m3u8/750c188ad6e4a9e1d445b4ebaa8ff9bd/750c188ad6e4a9e1d445b4ebaa8ff9bd.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/44a029893f860ee9173ca02355203fdb/44a029893f860ee9173ca02355203fdb.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",30. Teleon TV
 https://1a-1791.com/live/vf1v23qp/live-hls/sqpf-abtu/chunklist_i1_DVR.m3u8
@@ -380,6 +380,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
