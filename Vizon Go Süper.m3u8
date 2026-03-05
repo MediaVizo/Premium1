@@ -129,6 +129,9 @@ https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://static.12core.net/media/content/stream/c69f95b1-ad0f-4e90-93bb-236dfcde3d9c/00e3797e1bbd2dd719239a849d42b546",144. Travel 4K
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=-W-Hab4e1BO
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/05/w23PDF.png",149. Tarımkon TV
+http://cdn-tarimkontv.yayin.com.tr/tarimkontv/tarimkontv/playlist.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZthVY.png",150. Art World TV
 https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
 
@@ -335,6 +338,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
