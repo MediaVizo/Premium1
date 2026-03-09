@@ -198,8 +198,8 @@ https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ENYRfqZo0cJd.png",153. Haber Rize
 https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Df0hC8P-o.png",154. Van HD
-https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/09/CMtkKC.png",154. Van 65
+https://live.artidijitalmedya.com/artidijital_van65/van65/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/VfYcnlO2h.png",156. Vangölü TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/tracks-v1a1/mono.m3u8
@@ -383,6 +383,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
