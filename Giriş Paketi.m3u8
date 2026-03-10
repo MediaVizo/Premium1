@@ -1,0 +1,104 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",52. Ekol TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/q5aJIjAHYnv.png",71. World Türk
+https://worldturktv.radyotelekom.com.tr:3971/live/worldturktvstreamlive.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/94MlwEi.png",73. Kanal Plus
+https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/KVTUk4e.png",74. Çay TV
+https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/BZdmCzFQAS24.png",75. Telenews
+https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/05/w23PDF.png",149. Tarımkon TV
+http://cdn-tarimkontv.yayin.com.tr/tarimkontv/tarimkontv/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZthVY.png",150. Art World TV
+https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/mv9se3.png",151. Muğla Türk
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/bpsInN8cqWY.png",152. Rize Türk TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ENYRfqZo0cJd.png",153. Haber Rize
+https://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Df0hC8P-o.png",154. Van HD
+https://live.artidijitalmedya.com/artidijital_ort/ort/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/VfYcnlO2h.png",156. Vangölü TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/X8YcZE2_w5D.png",157. Life TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/03/wzEPcF.png",158. Kanal 19
+https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/08DyzLK_e.png",159. MK Türk
+https://streams.uzunmuhalefet.com/stream/d4565ce9-78b9-4acf-94ea-50e2d726a9d4.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/V8_Ijl3iGZ.png",160. Konya Olay TV
+http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/kj3LxgTUhCte.png",161. On Medya
+https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/sUWQBq5jzc.png",162. Kay TV
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/G7YLclKx.png",163. Egemax TV
+http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/otEaO.png",165. Erciş TV
+https://cdn1-ercistv.yayin.com.tr/ercistv/amlst:ercistv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/n7wqz.png",171. İçel TV
+https://edge1.taksimbilisim.com/iceltv/bant1/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/x5yf-3.png",172. Merkez TV
+https://ip100.radyotelekomtv.com:3689/stream/play.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/uRdpTqwl.png",173. Aras TV
+https://2.rtmp.org/tv217/yayin.stream/chunklist_w93444513.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/0CF638xSwZUy.png",174. BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/eKLvkzR.png",175. Kanal T
+https://edge.kuzeykibrissmart.tv/kanalt/bant1/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Un0zi.png",208. TV 48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/6tC23.png",213. Kanal 53 
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/eSmNdU.png",238. Hunat TV 
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/AyGOSY6Chsu0.png",338. NR 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/VX63WSEMi.png",339. NR 1 Türk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/oKizrsXNjBE.png",340. NR 1 Aşk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/Vu6tI4obCT.png",341. NR 1 Rap TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/vHJfVRgltc.png",342. NR 1 Dance
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZvfJCgRdzL8.png",343. Fashion One
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
+
