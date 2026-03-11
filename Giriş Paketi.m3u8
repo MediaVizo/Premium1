@@ -15,6 +15,9 @@ https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/BZdmCzFQAS24.png",75. Telenews
 https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/11/CSkSVI.png",76. Cem TV 
+https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/05/w23PDF.png",149. Tarımkon TV
 http://cdn-tarimkontv.yayin.com.tr/tarimkontv/tarimkontv/playlist.m3u8
 
@@ -101,5 +104,6 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2a
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZvfJCgRdzL8.png",343. Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
+
 
 
