@@ -114,6 +114,9 @@ https://boztv.koprulu2.workers.dev/teberstar5.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSpTH8.png",42. Teber ON
 https://boztv.koprulu2.workers.dev/teberstar10.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSU8nW.png",43. Deniz 6 
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar6.m3u8
+
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",49. Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
 
@@ -404,6 +407,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
