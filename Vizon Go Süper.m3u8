@@ -33,9 +33,6 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/5b5cdb74f1128420325e897f050215b
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/xapOPnH3S.png",27. Vizon Show 
 https://stream41.radyotelekom.com.tr/stream/m3u8/bce08fbd522f9cb248b9463d192330f4/bce08fbd522f9cb248b9463d192330f4.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",30. Teleon TV
-https://1a-1791.com/live/v0xi25uh/live-hls/vugd-ys21/chunklist_i1_DVR.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/04/wzUduZ.png",32. Yansıma Sinema
 http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
 
@@ -48,14 +45,23 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wUzJjF.png",35. Premie Star
 https://stream41.radyotelekom.com.tr/stream/m3u8/dcb19d3f600a6fc869bcf8cba3f9f7a6/dcb19d3f600a6fc869bcf8cba3f9f7a6.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/04/wzG0Nq.png",36. Kral Teber 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShWI8.png",37. Teber Star 1
+https://boztv.koprulu2.workers.dev/teberstar1.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSLsPI.png",40. Planet Aksiyon 
+https://boztv.koprulu2.workers.dev/teberstar7.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUnhF.png",43. Deniz 6 
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar6.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUsnR.png",44. Kanal 9
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar9.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/04/wzG0Nq.png",45. Kral Teber 
 https://catcast.ismailturret.workers.dev/50457.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",49. Cine 1
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",50. Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
-
-#EXTINF:-1 group-title="Film & Dizi"https://resmim.net/cdn/2026/02/28/wUvbOH.png,50. Cine 5 TV
-https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/27/wUZbvZ.png",51. Cine 5 HD
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
@@ -341,6 +347,7 @@ http://45.164.151.197:8000/play/a065/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
 http://45.164.151.197:8000/play/a0i5/index.m3u8
+
 
 
 
