@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/A091BiyJPDU.png",0. Vizon Ramazan
-https://stream41.radyotelekom.com.tr/stream/m3u8/234495b16721b1ee2a1fdea2e7ef0def/234495b16721b1ee2a1fdea2e7ef0def.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZTzxE.png",1. Cine 6
 https://stream41.radyotelekom.com.tr/stream/m3u8/12eedbc25b44aae8f0c0df72b902441e/12eedbc25b44aae8f0c0df72b902441e.m3u8
 
