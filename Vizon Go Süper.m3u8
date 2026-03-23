@@ -33,9 +33,6 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",34. Süper Türk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wUzJjF.png",35. Premie Star
-https://stream41.radyotelekom.com.tr/stream/m3u8/dcb19d3f600a6fc869bcf8cba3f9f7a6/dcb19d3f600a6fc869bcf8cba3f9f7a6.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShWI8.png",37. Teber Star 1
 https://boztv.koprulu2.workers.dev/teberstar1.m3u8
 
@@ -119,6 +116,9 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/13/CZXf1M.png",113. Star Belgesel
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar8.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/23/CDkViQ.png",114. Star Wildlife
+https://stream41.radyotelekom.com.tr/stream/m3u8/b7b3a18ea52f678837cabfa17f89d65c/b7b3a18ea52f678837cabfa17f89d65c.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/03/wzj5Vx.png",119. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
