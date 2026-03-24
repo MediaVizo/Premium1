@@ -67,13 +67,13 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShWI8.png",37. Teber Star 1
-https://boztv.koprulu2.workers.dev/teberstar1.m3u8
+https://catcast.ismailturret.workers.dev/50866.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShTQk.png",38. Teber Star 2
-https://boztv.koprulu2.workers.dev/teberstar2.m3u8
+https://catcast.ismailturret.workers.dev/50867.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShCiC.png",39. Teber Star 3
-https://boztv.koprulu2.workers.dev/teberstar3.m3u8
+https://catcast.ismailturret.workers.dev/50868.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/15/CZzER7.png",40. Teber Star 4 
 https://boztv.koprulu2.workers.dev/teberstar7.m3u8
