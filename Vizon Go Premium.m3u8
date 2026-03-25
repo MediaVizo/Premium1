@@ -276,9 +276,6 @@ https://cdn4.yayin.com.tr/channel6tv/index.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://pic.rutube.ru/video/a0/75/a075757aa5433c764f49cb9636b8443f.png",333. Türk Pop TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://r.resimlink.com/yfqC3Hsi.png",334. Yansıma Müzik
-https://catcast.ismailturret.workers.dev/50710.m3u8
-
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzp9dj.png",335. Biz TV Müzik
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
 
@@ -336,26 +333,8 @@ http://ott.server-iptv.live/5001/video.m3u8?token=C0ffbe2b0c
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",551. İçtimal TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/TCf4G.png",553. Sony Channel
-http://45.164.151.197:8000/play/a0hp/index.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/yC8Hzrt.png",554. Sony Movies
-http://45.164.151.197:8000/play/a03s/index.m3u8
-
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",557. İnto Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",558. HBO 1
-http://45.164.151.197:8000/play/a0l2/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/1280px-HBO2_logo.svg.png",559. HBO 2
-http://45.164.151.197:8000/play/a00c/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG",560. HBO 3
-http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7013/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/-fquzmA6ObV.png",560. HBO Xtreme
-http://45.164.151.197:8000/play/a0l6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/oCm24hIejP.png",561. FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
@@ -365,9 +344,6 @@ https://ilglobotv-live.akamaized.net/channels/RAI1/events(1000)/RAI1-video=50000
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/29/Rai_World_Premium_%282017-.n.v.%29.png/revision/latest?cb=20170627122650",563. Rai World Premium
 https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=699968.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/sJE5XVMo7v.png",564. Star Channel
-http://45.164.151.197:8000/play/a0hn/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-7.png",570. Persina Türkiye
 https://turkhls.persiana.live/hls/stream.m3u8
@@ -381,14 +357,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-9.png",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/images-2.png",577. Universal
-http://148.222.225.136:8004/play/a08o/index.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/images-2.png",578. Universal Crime
-http://45.164.151.197:8000/play/a065/index.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-10.png",579. Universal Comedy
-http://45.164.151.197:8000/play/a0i5/index.m3u8
 
 
 
