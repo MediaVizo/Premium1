@@ -82,16 +82,10 @@ https://boztv.koprulu2.workers.dev/teberstar7.m3u8
 https://boztv.koprulu2.workers.dev/teberstar5.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSpTH8.png",42. Teber ON
-https://boztv.koprulu2.workers.dev/teberstar10.m3u8
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar10.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUnhF.png",43. Deniz 6 
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar6.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUsnR.png",44. Kanal 9
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar9.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/04/wzG0Nq.png",45. Kral Teber 
-https://catcast.ismailturret.workers.dev/50457.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/13/CZXXvH.png",46. Teber Flash TV 
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar4.m3u8
@@ -264,8 +258,8 @@ https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/chunks.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/HZcXhVOy.png",300. Vizon Çocuk
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/teber_medya/1.m3u8 
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/Mfm3rxW.png",301. Teber Çocuk
-https://catcast.ismailturret.workers.dev/50452.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUsnR.png",301. Kanal 9 Çocuk
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar9.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://cdn.imagevisit.com/2026/01/26/Zz1jNzhlZTI2NGNlNzcxMWVkYmMwNmVlMDZjYWM2NDI3Ng.png",305. Baby First
 http://45.164.151.197:8000/play/a03i/index.m3u8
