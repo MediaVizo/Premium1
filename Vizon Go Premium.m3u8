@@ -21,11 +21,11 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/859bdc59b4cf03fb43046052796d5d9
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/ZTzxE.png",10. Cine 6
 https://stream41.radyotelekom.com.tr/stream/m3u8/ed56462c03c822268017bcf1a460bc97/ed56462c03c822268017bcf1a460bc97.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",11. Cine 6 Premier
-https://stream41.radyotelekom.com.tr/stream/m3u8/cdba57e74c4fca1f299a42c10e2e4de7/cdba57e74c4fca1f299a42c10e2e4de7.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/tcMxFslvqXZ_.png",12. Cine 6 Aksiyon
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/tcMxFslvqXZ_.png",11. Cine 6 Aksiyon
 https://stream41.radyotelekom.com.tr/stream/m3u8/8712e9d746818f43238285a5872dacf8/8712e9d746818f43238285a5872dacf8.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",12. Cine 6 Premier
+https://stream41.radyotelekom.com.tr/stream/m3u8/cdba57e74c4fca1f299a42c10e2e4de7/cdba57e74c4fca1f299a42c10e2e4de7.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wU2e1F.png",13. Moviebox Action
 https://stream41.radyotelekom.com.tr/stream/m3u8/88056c3dad25370a571b8afb1ffaba61/88056c3dad25370a571b8afb1ffaba61.m3u8
