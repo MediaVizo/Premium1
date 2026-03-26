@@ -105,6 +105,9 @@ http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",52. Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
+#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/03/26/CN6hhb.png",69. Test
+https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar18.m3u8
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",70. Vizon Haber
 https://stream41.radyotelekom.com.tr/stream/m3u8/33ef9e48dc089ee3d0ad141e81bf885e/33ef9e48dc089ee3d0ad141e81bf885e.m3u8
 
