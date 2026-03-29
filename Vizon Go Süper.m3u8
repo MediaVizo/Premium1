@@ -4,7 +4,7 @@
 https://stream41.radyotelekom.com.tr/stream/m3u8/bff9704572221544886d663c9d358dc3/bff9704572221544886d663c9d358dc3.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/IbHyaKQ03q.png",4. Vizon Gold
-https://stream41.radyotelekom.com.tr/stream/m3u8/9423a9fc28b3962a6b73e680ea2e7815/9423a9fc28b3962a6b73e680ea2e7815.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/c6db43b4af58b75c1ab82d423bab5026/c6db43b4af58b75c1ab82d423bab5026.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/01/wqwKZ2.png",5. Vizon Komedi
 https://stream41.radyotelekom.com.tr/stream/m3u8/1c152c62163822e7f9dcde364d31a999/1c152c62163822e7f9dcde364d31a999.m3u8
@@ -39,6 +39,9 @@ http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",37. Süper Türk
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",41. TRT 1
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",49. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
@@ -55,7 +58,10 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar4.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber
-https://stream41.radyotelekom.com.tr/stream/m3u8/33ef9e48dc089ee3d0ad141e81bf885e/33ef9e48dc089ee3d0ad141e81bf885e.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/b1671b522e9e7eeaefbef94d8e05fa55/b1671b522e9e7eeaefbef94d8e05fa55.m3u8
+
+#EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/27/CNvtYZ.png",63. TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/03/26/CN6hhb.png",69. Test
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar18.m3u8
@@ -104,6 +110,9 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/xuye7XqiS3N.png",86. Arena Sport 6
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NRLXRWSBWBPLN4/7334/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.imagevisit.com/2026/01/27/tv-platformlari-200-x-200-piksel-kopyasi-7.png",89. HT Spor
+https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=849ihjbnv870&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/p8BVryq620C.png",91. TR Spor
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
