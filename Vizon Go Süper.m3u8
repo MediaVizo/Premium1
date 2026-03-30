@@ -60,6 +60,15 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_outpu
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/27/wUZbvZ.png",52. Cine 5 HD
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/7.png",53. 360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/13.png",54. TV 4
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/31/CjXwDL.png",55. Beyaz TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=8afl4g91yps0&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",56. Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
@@ -74,6 +83,9 @@ https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/03/26/CN6hhb.png",69. Türk Ç
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar18.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/31/CjXf3F.png",70. GRT TV
+https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8?nimblesessionid=2629369832
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/q5aJIjAHYnv.png",71. World Türk
 https://worldturktv.radyotelekom.com.tr:3971/live/worldturktvstreamlive.m3u8
