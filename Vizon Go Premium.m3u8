@@ -213,6 +213,9 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/30/CXqwzo.png",111. TV 36
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/02/CwwrHF.png",112. Deniz TV
+https://streams.uzunmuhalefet.com/stream/0043635a-00aa-442d-8862-65f81c5929e2.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/y81gEn.png",125. Vizon Wild
 https://stream41.radyotelekom.com.tr/stream/m3u8/98255cb3e0a35178ee7ab485aa200a64/98255cb3e0a35178ee7ab485aa200a64.m3u8
 
