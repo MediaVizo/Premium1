@@ -75,7 +75,10 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=8afl4g91yps0&app=fc
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",56. Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/13/CZXXvH.png",57. Teber Flash TV 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",57. Teleon TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/e0cfaff8f4374eb93941ae7c6725dd90/e0cfaff8f4374eb93941ae7c6725dd90.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/13/CZXXvH.png",61. Teber Flash TV 
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar4.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber
