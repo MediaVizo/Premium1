@@ -142,7 +142,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/b1671b522e9e7eeaefbef94d8e05fa5
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/03/26/CN6hhb.png",69. Türk Ç
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/cturk.m3u8
+http://162.212.179.32/akamaissh101/ssh101/cturk/chunks.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/31/CjXf3F.png",70. GRT TV
 https://live.artidijitalmedya.com/artidijital_grt/grt/chunks.m3u8
@@ -169,7 +169,7 @@ https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar13.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/04/CC3mEc.png",78. Maraton TV
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar100.m3u8
+http://162.212.179.32/akamaissh101/ssh101/tonmaraton/chunks.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png",79. CBC Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/V4ZVP6G52HVXDE/2193/index.m3u8
