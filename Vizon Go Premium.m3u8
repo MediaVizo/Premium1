@@ -406,22 +406,25 @@ https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/hPX1YA.png",503. Movies Actıon
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",504. BBC Drama
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",504. BBC Series
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/oCm24hIejP.png",505. FX Movies
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",505. FX Movies
 https://fxtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",505. Show Plus
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/04/13/CkcNLh.png",506. Now Series
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/FUNLMQKFFTX2QUCDSWYDBQMY/15102/index.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",507. Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",506. İnto Crime
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",508. İnto Crime
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",507. İçtimal TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",509. İçtimal TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",508. Az TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",510. Az TV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NRLXRWSBWBPLN4/966/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/2560px-Rai_1_HD_Logo.svg.png",560. Rai 1
