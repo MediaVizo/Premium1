@@ -76,19 +76,19 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/7f3f6c3695b0ce9dd23d7e954ed2157
 https://stream41.radyotelekom.com.tr/stream/m3u8/0e161dc6d7c350235b9e664165cc634e/0e161dc6d7c350235b9e664165cc634e.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShWI8.png",29. Teber Star 1
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar1.m3u8
+https://boztv.koprulu2.workers.dev/teberstar1.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShTQk.png",30. Teber Star 2
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar2.m3u8
+https://boztv.koprulu2.workers.dev/teberstar2.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShCiC.png",31. Teber Star 3
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar3.m3u8
+https://boztv.koprulu2.workers.dev/teberstar3.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSLOM8.png",32. HBB TV 
 https://boztv.koprulu2.workers.dev/teberstar5.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSpTH8.png",33. Teber ON
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar10.m3u8
+https://boztv.koprulu2.workers.dev/teberstar10.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUnhF.png",34. Deniz 6 
 https://boztv.koprulu2.workers.dev/teberstar6.m3u8
@@ -133,7 +133,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 https://live.tecostream.xyz/teleon.php/.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/13/CZXXvH.png",61. Teber Flash TV 
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar4.m3u8
+https://boztv.koprulu2.workers.dev/teberstar4.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber
 https://stream41.radyotelekom.com.tr/stream/m3u8/b1671b522e9e7eeaefbef94d8e05fa55/b1671b522e9e7eeaefbef94d8e05fa55.m3u8
