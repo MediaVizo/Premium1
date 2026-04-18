@@ -231,6 +231,9 @@ https://boztv.koprulu2.workers.dev/teberstar7.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CXqDIG.png",107. Teber MTV
 https://boztv.koprulu2.workers.dev/teberstar11.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/18/C3viGQ.png",108. Şaban TV
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CXUpIb.png",110. STV 
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 
