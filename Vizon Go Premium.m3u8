@@ -76,22 +76,22 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/7f3f6c3695b0ce9dd23d7e954ed2157
 https://stream41.radyotelekom.com.tr/stream/m3u8/0e161dc6d7c350235b9e664165cc634e/0e161dc6d7c350235b9e664165cc634e.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShWI8.png",31. Teber Star 1
-https://boztv.koprulu2.workers.dev/teberstar1.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar1/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShTQk.png",32. Teber Star 2
-https://boztv.koprulu2.workers.dev/teberstar2.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar2/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CShCiC.png",33. Teber Star 3
-https://boztv.koprulu2.workers.dev/teberstar3.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar3/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSLOM8.png",34. HBB TV 
-https://boztv.koprulu2.workers.dev/teberstar5.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar5/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSpTH8.png",35. Teber ON
-https://boztv.koprulu2.workers.dev/teberstar10.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar10/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/12/CSUnhF.png",36. Deniz 6 
-https://boztv.koprulu2.workers.dev/teberstar6.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar6/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aNoxG.png",37. Kuzey Max HD
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
@@ -136,7 +136,7 @@ https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 https://live.tecostream.xyz/teleon.php/.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/13/CZXXvH.png",61. Teber Flash TV 
-https://boztv.koprulu2.workers.dev/teberstar4.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar4/playlist.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber
 https://stream41.radyotelekom.com.tr/stream/m3u8/8f3d08faaac534ae2dc125d1c7d5e5d4/8f3d08faaac534ae2dc125d1c7d5e5d4.m3u8
@@ -226,10 +226,10 @@ https://trkvz.daioncdn.net/a2tv/a2tv_720p.m3u8?e=1776200637&st=Z31NN9H95E3TtlJI9
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=8a18hjxo3br1&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/15/CZzER7.png",106. Teber Ehlibeyt
-https://boztv.koprulu2.workers.dev/teberstar7.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar7/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CXqDIG.png",107. Teber MTV
-https://boztv.koprulu2.workers.dev/teberstar11.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar11/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/18/C3viGQ.png",108. Şaban TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
@@ -250,7 +250,7 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/79f4bd8a7bc520f04b6542ccf383814
 https://stream41.radyotelekom.com.tr/stream/m3u8/b7b3a18ea52f678837cabfa17f89d65c/b7b3a18ea52f678837cabfa17f89d65c.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/13/CZXf1M.png",128. Star Belgesel
-https://tvbox2026.baba-zirvede-az-biz-ismayil-baba.workers.dev/teberstar8.m3u8
+https://tebermedya.nextstream.workers.dev/teberstar8/playlist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/03/wzj5Vx.png",129. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
