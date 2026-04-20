@@ -216,6 +216,12 @@ https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/1200px-TraceSSLogo.png",94. Trace Sports
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4536" tvg-logo="http://epg.one/img2/4536.png",95. Sport Klub 1 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7269/index.m3u8
+
+#EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4537" tvg-logo="http://epg.one/img2/4537.png", 96. Sport Klub 2 HD HR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ZCWA3M6DRQWUREFLWC5GYEPK/7270/index.m3u8
+
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://cdn.imagevisit.com/2026/01/28/7.png",100. TRT 2
 https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
 
