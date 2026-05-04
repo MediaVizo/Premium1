@@ -21,7 +21,10 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/c4-X5n.png",27. İşviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/My8J_G2Zmh9u.png",46. Pati Sinenma
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/My8J_G2Zmh9u.png",28. Pati Sinenma
+http://104.238.23.182/d/live/out.m3u8
+
+#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/05/04/Codv1k.png",29. Başka Sinema
 http://104.238.23.182/d/live/out.m3u8
 
 
