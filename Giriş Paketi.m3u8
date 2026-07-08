@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/28/CY63B3.png",1. Vizon TV 
-https://stream41.radyotelekom.com.tr/stream/m3u8/4bfffff0822a6e371c04d1ec3d33ffc7/4bfffff0822a6e371c04d1ec3d33ffc7.m3u8
+https://stream41.radyotelekom.com.tr/stream/m3u8/7b8999214559971bc7f6088f559e10ac/7b8999214559971bc7f6088f559e10ac.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NV5e_3Rc.png",2. Vizon 4K / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
@@ -39,12 +39,6 @@ http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CjNAKk.png",14. Moviebox Yerli / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/28/wUvKSq.png",15. Fil TV / Şifreli
-http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CjNBqQ.png",16. Beyazperde / Şifreli
-http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/DIHrxMFfoTJ4.png",17. DiziBox / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
@@ -57,14 +51,14 @@ http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/zPSVRIW.png",20. Vizon Show  / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/oBwM4vDuOtA.png",21. Vizon Max / Şifreli 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/oBwM4vDuOtA.png",21. Vizon Max / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/7.png",31. 360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/tDWAMOSF3.png,22. TRT 4K
+http://nextiptv.pro:8080/yasarp/palaz07@/245
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/13.png",32. TV 4
-http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",23. TRT 1
+https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://r.resimlink.com/O6KP3R-DNBrM.png",34. Cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?session=MB4VJMtU3MMh9iDu8dtZRu
@@ -72,37 +66,46 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_outpu
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/02/27/wUZbvZ.png",35. Cine 5 HD / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",36. Cine 6  / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/jYrd6bl3I.png",36. Cine 6 / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",37. Tivi 6 
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",37. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://r.resimlink.com/lxNczsAIgEC.png",39. Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",40. Teleon TV / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/Q7XRTb9N.png",41. Star Movies / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdwPI.png",41. Star Movies / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/4FT2dg0.png",43. Star Horror / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdDtj.png",43. Star Horror / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/kAyb7Xr.png",44. Star Dramas / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdlM8.png",44. Star Dramas / Şifreli
-http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd8Fk.png",45. Star Series / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/J5DUP.png",45. Star Series / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",46. Yansıma Sinema / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbgH1h.png",61. Star Haber 24 / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/SJWVhjDYmrET.png",47. Kanal 1 TV / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/RbvhaCefd8E.png",48. Kanal 2 TV / Şifreli
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/VyAq_6.png",51. Teber ON / Şifreli
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/mhV9O.png",52. Teber TV / Şifreli
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/TEilURFztr.png",61. Star Haber 24 / Şifreli
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/GDgxc-.png",62. Vizon Haber
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/29/CbwlRC.png",69. Tele 5 / Şifreli
@@ -159,10 +162,16 @@ http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/xuye7XqiS3N.png",86. Arena Sport 6 / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/p8BVryq620C.png",91. TR Spor / Şifreli
-http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
+#EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.imagevisit.com/2026/01/27/11.png",87. TRT Spor
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=849huotrcz66&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/30/CbgnFL.png",92. Star Sports / Şifreli
+#EXTINF:-1 group-title="Spor" tvg-logo="https://cdn.imagevisit.com/2026/01/27/tv-platformlari-200-x-200-piksel-kopyasi-2.png",88. A Spor
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/p8BVryq620C.png",91. TR Spor
+https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/_ftezFyAPOJq.png",92. Star Sports / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/04/20/Cg2lXI.png",94. Trace Sports / Şifreli
@@ -189,6 +198,9 @@ http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/03/30/CXUpIb.png",110. STV  / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/29/CamBAc.png",111. Flux TV / Şifreli
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/30/CbQMEo.png",112. Deniz TV / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
@@ -196,9 +208,12 @@ http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/01/wUvvf3.png",126. DocuBox / Şifreli
-http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986 
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYdRxW.png",127. Star Wilds / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/YuhFAyJt2SGT.png",127. Star Wilds / Şifreli
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",128. Teber Wild / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/03/wzj5Vx.png",129. MMN Channel
@@ -294,11 +309,11 @@ https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0DBLUfSIG-Q2.png,300. Vizon Çocuk
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/27/CYd332.png",302. Star Cartoons
-https://stream41.radyotelekom.com.tr/stream/m3u8/e38e1aa61d9f3e228aabdef202756af6/e38e1aa61d9f3e228aabdef202756af6.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/8pYqaL7vh_2V.png",302. Star Çocuk
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/03/30/CXvdax.png",312. FX Cartoon
-https://toonixhls.wns.live/hls/stream.m3u8
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/35bOcIDi6m.png",320. Vizon Müzik
 https://stream41.radyotelekom.com.tr/stream/m3u8/1632c450b50fcb279d0b3cba7aa547f0/1632c450b50fcb279d0b3cba7aa547f0.m3u8
@@ -339,31 +354,34 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/oLQd79ml.png",333. Metro Türk
 https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",340. Trace Latına / Şifreli
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",340. Trace Latına
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
+
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",505. MMN Movies / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",500. MMN Movies / Şifreli
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzFZdx.png",506. BizTV Cinema / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzFZdx.png",501. BizTV Cinema / Şifreli
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzpPqR.png",507. Biz TV / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzpPqR.png",502. Biz TV
-https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",504. BBC Series / Şifreli
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",508. BBC Series / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",505. FX Movies / Şifreli
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",509. FX Movies / Şifreli
 http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",507. Show Plus
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",510. Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",509. İçtimal TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",511. İnto Crime / Şifreli
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",510. Az TV
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",512. İçtimal TV / Şifreli
+http://zzt9k.xyz:8080/Ibrahimcanakkale/z4HmkSBXGs/128986
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/CAuSTl.png",513. Az TV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NRLXRWSBWBPLN4/966/index.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Rai_1_HD_Logo.svg/2560px-Rai_1_HD_Logo.svg.png",560. Rai 1
@@ -383,5 +401,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imagevisit.com/2026/01/26/tv-platformlari-200-x-200-piksel-9.png",573. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
+
 
 
