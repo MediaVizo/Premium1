@@ -393,7 +393,7 @@ https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/26/CNzspn.png",260. TE TV
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0DBLUfSIG-Q2.png,300. Vizon Çocuk
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSF06.png,300. Vizon Çocuk
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/0.m3u8
 
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PXvH.png", 301. Cine 7 Çocuk / Şifreli
@@ -420,7 +420,7 @@ https://cdn.filbox.com.tr/live/cms4tm6kc00104cccb1icivq3/index.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/03/30/CXvdax.png",312. FX Cartoon
 https://toonixhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/35bOcIDi6m.png",320. Vizon Müzik
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSIWR.png",320. Vizon Müzik
 https://stream41.radyotelekom.com.tr/stream/m3u8/1632c450b50fcb279d0b3cba7aa547f0/1632c450b50fcb279d0b3cba7aa547f0.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",322. Chennal 6
@@ -453,7 +453,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2a
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/ZvfJCgRdzL8.png",332. Fashion One
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8
 
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://r.resimlink.com/0ec2Y9ov.png",340. Trace Latına
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZf7C.png",340. Trace Latına
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
 
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/05/08/Cyl3An.png",505. MMN Movies
@@ -465,7 +465,7 @@ http://162.212.179.32/akamaissh101/ssh101/66666/chunks.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/03/04/wzpPqR.png",507. Biz TV / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/66666/chunks.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/X4u_oUF.png",508. BBC Series / Şifreli
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSUL8.png",508. BBC Series / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/66666/chunks.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/oCm24hIejP.png",509. FX Movies / Şifreli
@@ -474,7 +474,7 @@ http://162.212.179.32/akamaissh101/ssh101/66666/chunks.m3u8
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/wVzqXfSt79E2.png",510. Show Plus
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:-1 group-title="Yabancı" tvg-logo="https://r.resimlink.com/Yqt3lbusURMh.png",511. İnto Crime / Şifreli
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://resmim.net/cdn/2026/08/17/ERZTLL.png",511. İnto Crime / Şifreli
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="Yabancı" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Ictimai_TV_yeni_logo_2019.png",512. İçtimal TV
