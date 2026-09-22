@@ -405,6 +405,9 @@ https://edge2.taksimbilisim.com/kanal33/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/07/25/EE3gIb.png",202. Kanal 34
 https://live.euromediacenter.com/kanal34/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EequY6.png",151. Muğla Türk
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/6tC23.png",213. Kanal 53 
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
