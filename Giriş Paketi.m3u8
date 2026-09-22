@@ -285,9 +285,6 @@ https://dogus.daioncdn.net/tlc/tlc_360p.m3u8?token=OFZPd1pWUTB5YWxSeXMzbk0rZzBqd
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqQLb.png",150. Art World TV
 https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EequY6.png",151. Muğla Türk
-https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
-
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqG1C.png",152. Rize Türk TV
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 
