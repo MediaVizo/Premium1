@@ -18,10 +18,10 @@ http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/30/E3AVy7.png",6. Teleon 
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAxUi.png",7. Tebertürk Tematik
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAxUi.png",7. Tebertürk 1
 http://162.212.179.32/akamaissh101/ssh101/teber_1/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAQHC.png",8. Tebertürk Yeşilçam
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/06/EhAQHC.png",8. Tebertürk 2
 http://162.212.179.32/akamaissh101/ssh101/teber_2/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png",22. B Sinema
