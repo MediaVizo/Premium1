@@ -64,7 +64,7 @@ http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/Eeqg2W.png",22. TRT 4K
-http://umperisn.mywire.org/index.php?id=1842&token=DeaTHLesS
+http://tinyurl.com/2b9lfls2
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://cdn.imagevisit.com/2026/01/27/5.png",23. TRT 1
 https://trt.daioncdn.net/trt-1/master_1440p.m3u8?&sid=8aa3uppo48h8&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
@@ -94,7 +94,7 @@ http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/28/EOBDny.png",36. TGRT 
-http://umperisn.mywire.org/index.php?id=594199&token=DeaTHLesS
+http://tinyurl.com/25xoaa7j
 
 #EXTINF:-1 group-title="Ulusal & Yaşam" tvg-logo="https://resmim.net/cdn/2026/03/15/CZ2TI2.png",37. Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
@@ -501,8 +501,8 @@ http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://resmim.net/cdn/2026/08/17/ERSIWR.png",320. Vizon Müzik
 https://stream41.radyotelekom.com.tr/stream/m3u8/1632c450b50fcb279d0b3cba7aa547f0/1632c450b50fcb279d0b3cba7aa547f0.m3u8
 
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Canal_6_TCS.png/250px-Canal_6_TCS.png",322. Chennal 6
-https://cdn4.yayin.com.tr/channel6tv/index.m3u8
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/14/HWUY1Q.png",321. Kral TV
+https://dogusdyg-kralpoptv.lg.mncdn.com/dogusdyg-kralpoptv/dogusdyg_kralpoptv.smil/chunklist_w319974101_b2000096.m3u8?st=aNqygQbcNlb4LSqC82G6lA&e=1792098099
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://resmim.net/cdn/2026/08/17/E59jqW.png",323. Türk Pop TV
 https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
