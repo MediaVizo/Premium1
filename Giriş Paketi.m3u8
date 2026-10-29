@@ -138,6 +138,9 @@ http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/15/E12b3G.png",61. Planet Mutfak / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
+#EXTINF:-1 group-title="Haber & Yaşam" tvg-logo="https://resmim.net/cdn/2026/10/29/HCYGI7.png",62. Taşeli TV
+https://www.youtube.com/live/4erOsNlcfqI?si=Cz7pheIKk-bxNWZ_
+
 #EXTINF:-1 group-title="Spor" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee3wVc.png",63. Vizon Haber
 https://live01.iha.tv/webabone/live2/chunks.m3u8
 
