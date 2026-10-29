@@ -253,7 +253,7 @@ http://176.65.153.35:6003/play/a019/index.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://resmim.net/cdn/2026/10/27/HwK4IL.png",114. CNBC-e
-https://cnbc-e.daioncdn.net/cnbc-e/cnbc-e_1080p.m3u8?e=1793146651&st=RZIm47gCid0VtPfOAbYsgw&sid=8vbck2555d81&app=3a3f6622-1025-4b00-af19-6df611ff07d3&ce=2
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezdCy.png",125. Vizon Wild / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
@@ -291,10 +291,10 @@ http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/17/EnrvR2.png",173. Max TV / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/08/EAQSlI.png",174. Kanal F / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpAtH.png",174. Digimax / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/25/EtRJex.png",175. Fusion TV / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpIpc.png",175. Digimax Plus / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/16/CIcPbW.png",176. Yansıma Sinema / Şifreli
@@ -303,19 +303,25 @@ http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",177. Yansıma Nostalji / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/09/17/EnkFI8.png",183. Sümbül TV / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpY1k.png",178. Teber HBB / Şifreli 
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/13/ELygAI.png",184. Simvol TV / Şifreli 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXp4CW.png",179. Mega ON / Şifreli
+http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpUgZ.png",179. Teber 6 TV / Şifreli
+http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/09/13/ELygAI.png",184. Simvol TV / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/29/CamBAc.png",185. Flux TV / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/30/CbQMEo.png",186. Deniz TV / Şifreli
-http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/30/CbQMEo.png",186. Deniz TV
+https://stream41.radyotelekom.com.tr/stream/m3u8/8b852b7b00762f50083e325166e9d758/8b852b7b00762f50083e325166e9d758.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbF7L.png",187. Max Stars / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXpkvZ.png",187. İzle Go / Şifreli 
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exbav1.png",188. Max Premier / Şifreli
@@ -324,13 +330,16 @@ http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExbzCW.png",189. Max Yerli / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/31/EVbRTR.png",194. Zem TV / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/06/EvPMq8.png",190. Max Dizi / Şifreli
+http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/29/HCCZrK.png",194. Telezen TV / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/04/18/C3viGQ.png",195. Şaban TV / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/NdCsaT8nqRbz.png",196. B TV / Şifreli
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/10/24/HXFWei.png",196. B TV / Şifreli
 http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/Exew5j.png",197. SDM TV / Şifreli
@@ -339,8 +348,8 @@ http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",198. Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExekuI.png",199. İşviçre TV / Şifreli
-http://162.212.179.32/akamaissh101/ssh101/6666/chunks.m3u8
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/26/ExekuI.png",199. İşviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/04/13/CknyXn.png",200. Trakya Türk
 https://live.euromediacenter.com/trakyaturk/tracks-v1a1/mono.m3u8
