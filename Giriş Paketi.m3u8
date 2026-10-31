@@ -345,7 +345,7 @@ https://live.artidijitalmedya.com/artidijital_artworld/artworld/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EequY6.png",204. Muğla Türk
 https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee35wi.png",74. Çay TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/08/07/Ee35wi.png",205. Çay TV
 https://edge2.taksimbilisim.com/caytv/bant1/chunks.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EeqG1C.png",206. Rize Türk TV
@@ -357,7 +357,7 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/16/E5RHY1.png",208. MK Türk
 https://live.euromediacenter.com/mkturk/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/04/27/CYKiKC.png",209. Mihrap TV
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://resmim.net/cdn/2026/10/31/HE5diL.png",209. Mihrap TV
 https://yayin30.haber100.com/live/mihraptv/chunklist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/kj3LxgTUhCte.png",210. On Medya
@@ -513,7 +513,7 @@ https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E59KOc.png",325. Slow Karadeniz TV
 https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",126. MMN Channel
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/08/EezYM8.png",326. MMN Channel
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/supersatforum_chunklist.m3u8
 
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://resmim.net/cdn/2026/08/17/E5nLEn.png",327. NR 1
