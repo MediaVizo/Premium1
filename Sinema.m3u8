@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/07/31/E8PBuZ.png",23. Yansıma Nostalji
+https://catcast.ismailturret.workers.dev/54233.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://resmim.net/cdn/2026/06/29/CamBAc.png",24. Flux TV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 
